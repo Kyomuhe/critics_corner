@@ -1,24 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Header from "./components/Header";
+import ReviewForm from "./components/ReviewForm";
+import ReviewList from "./components/ReviewList";
+import ReviewDetail from "./components/ReviewDetail";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <Header />
+        <Routes>
+          {/* The homepage will display the list of reviews */}
+          <Route path="/" element={<ReviewList />} />
+          {/* Route to add a new review */}
+          <Route path="/add-review" element={<ReviewForm />} />
+          {/* Route to view the detailed review of a specific movie/series */}
+          <Route path="/review/:id" element={<ReviewDetail />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
