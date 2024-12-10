@@ -74,7 +74,7 @@ Grab your popcorn, and let’s spill some tea 🍵🍿!
           e.target.style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.2)";
         }}
       >
-        Dive in to my Reviews
+        Dive in to my Reviews😊
       </button>
 
       {/* Decorative Elements */}
