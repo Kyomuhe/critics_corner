@@ -1,25 +1,17 @@
-// src/App.js
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Header from "./components/Header";
-import ReviewForm from "./components/ReviewForm";
-import ReviewList from "./components/ReviewList";
-import ReviewDetail from "./components/ReviewDetail";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import LandingPage from "./LandingPage";
+import ReviewsPage from "./ReviewsPage";
+import ReviewDetail from "./ReviewDetail";
 
 function App() {
   return (
-    <Router>
-      <div>
-        <Header />
-        <Routes>
-          {/* The homepage will display the list of reviews */}
-          <Route path="/" element={<ReviewList />} />
-          {/* Route to add a new review */}
-          <Route path="/add-review" element={<ReviewForm />} />
-          {/* Route to view the detailed review of a specific movie/series */}
-          <Route path="/review/:id" element={<ReviewDetail />} />
-        </Routes>
-      </div>
+    <Router basename="/critics_corner">
+      <Routes>
+        <Route path="/" element={<LandingPage />} />
+        <Route path="/reviews" element={<ReviewsPage />} />
+        <Route path="/reviews/:id" element={<ReviewDetail />} />
+      </Routes>
     </Router>
   );
 }
