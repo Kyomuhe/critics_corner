@@ -16,26 +16,47 @@ const reviews = {
 
 
 
-
-
       `,
   },
   2: {
     title: "FROM",
     content: `
-      A nostalgic dive into 80s sci-fi with great storytelling. 
-      The show captures the eerie vibe of small-town mysteries 
-      with a brilliant mix of suspense, drama, and supernatural elements. 
-      The characters are well-crafted, and the unfolding mystery keeps you hooked 
-      from start to finish. FROM is a delightful blend of nostalgia and originality, 
-      leaving viewers eager for more answers with every episode.
+    From was one of those shows that had me glued to the edge of my seat every single episode. Honestly, it just kept getting hotter and hotter, with every mystery stranger than the last. At one point, I was convinced it had to be some sort of government experiment, with certain people secretly in on it. But nope—that theory went straight out the window as things got weirder and weirder.
+    Let’s talk about the strange stuff: the creepy monsters that came out at night and just smiled at their victims before brutally killing them. Like, why are they so happy about it? Then there was that random radio transmission hinting that someone was watching or manipulating the people stuck in the town. And don’t even get me started on the bizarre talismans that somehow kept the monsters at bay. Oh, and the trees. Yes, trees that could magically transport you to another part of town—or somewhere even worse. It was all so bizarre, and yet you couldn’t stop watching because you just had to know what was going on.
+    And then came the ending of season 3. The big plot twist was… rebirth? Really? I mean, after all that suspense, I was expecting something mind-blowing, but instead, it felt like the show threw us a curveball that didn’t quite land. It wasn’t bad, but I’d definitely built up something bigger in my head. Still, for a series packed with this much mystery and chaos, From definitely knows how to keep you hooked.
+    Lets keep waiting for season 4.
+
+
+
+
+
+
+
+
     `,
   },
   
   3: {
     title: "BIG BANG THEORY",
     content:
-      "A nostalgic dive into 80s sci-fi with great storytelling. The show captures the eerie vibe of small-town mysteries with a brilliant mix of suspense, drama, and supernatural elements. The characters are well-crafted, and the unfolding mystery keeps you hooked from start to finish. FROM is a delightful blend of nostalgia and originality, leaving viewers eager for more answers with every episode.",
+    "I have not yet reviewed it , but i will soon wait for the tea😊"
+  },
+
+
+  4: {
+    title: "Chicago Pd",
+    content:
+    "I have not yet reviewed it , but i will soon wait for the tea😊"
+  },
+  5: {
+    title: "A Series of Unfortunate Events",
+    content:
+    "I have not yet reviewed it , but i will soon wait for the tea😊"
+  },
+  6: {
+    title: "Blackish",
+    content:
+    "I have not yet reviewed it , but i will soon wait for the tea😊"
   },
 
 };

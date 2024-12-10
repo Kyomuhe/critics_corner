@@ -16,7 +16,7 @@ const reviews = [
   { id: 3, title: "Big Bang Theory", image: big },
   { id: 4, title: "Chicago Pd", image: chicago },
   { id: 5, title: "A Series of Unfortunate Events", image: unfort },
-  { id: 6, title: "Black", image: black },
+  { id: 6, title: "Blackish", image: black },
 
 
 
