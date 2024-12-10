@@ -2,10 +2,13 @@ import React from "react";
 import { useNavigate } from "react-router-dom";
 import shameless from "./shameless.PNG";
 import fromm from "./fromm.PNG";
+import big from "./big.PNG";
 
 const reviews = [
   { id: 1, title: "Shameless", image: shameless },
   { id: 2, title: "From", image: fromm },
+  { id: 3, title: "Big Bang Theory", image: big },
+
 ];
 
 function ReviewsPage() {
