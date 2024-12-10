@@ -2,7 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 
 const reviews = {
-  1: { title: "Shameless", content: "This was truely masterpiece of modern TV drama." },
+  1: { title: "Shameless", content: "This was truely masterpiece of modern TV drama. But truely it was a very unfair game to fiona gallager" },
   2: { title: "FROM", content: "A nostalgic dive into 80s sci-fi with great storytelling." },
 };
 
