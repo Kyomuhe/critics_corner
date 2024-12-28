@@ -50,8 +50,17 @@ const reviews = {
   },
   5: {
     title: "A Series of Unfortunate Events",
-    content:
-    "I have not yet reviewed it , but i will soon wait for the tea😊"
+    content: `
+    well i decided to watch this serie in the beginning because of its catchy name  'the series of unfortunate events' to be for real the first episode of the first season disapointed me ,i wasnt expecting what i saw i was totally caught off guard like asin what the hell, i think its because this serie is kinda old and i was comparing it to the modern series
+    Its sort of a musical kind of movie but not really musical, it would be really good for kids and people who enjoy theatre shows,but any way i watched it till the end because i had no other serie to watch at the moment 
+    But as i continued with it it actually got quiet interesting so i would give it like a solid 5 out of 10
+    My favourite act was sunny because i know most of her parts were literally fake but since they were using a real baby in some parts she really did a great job, Klaus and violet baudelaire really rose up to their parts and executed their roles flawlessly because they had to learn new things about different subjects but they were too much on the sad part like yah you have suffered but dont exaggerate.
+    Lets not forget about Esme squalor and rich accent ,like for real she ate up her role really well , i feel like no one would do her better than she did.
+    Camalita was also extraodinary her tapping shoes, her hairstyle and clothings made her bring out the little spolied brat/ mean girl act, and by the way i want to credit her on her amaizing voice she really can sing
+
+    I feel like Count olaf and side kicks were doing too much like seriously they were beefing with innocent children and for no justifiable reason, because even thou they tortured or killed them they were literally not going to get their fortune/inherritance all their acts were stupid and actually funny 
+    But iam impressed that we were given a happy ending with count olaf dead and the orphans safe
+    `
   },
   6: {
     title: "Blackish",
