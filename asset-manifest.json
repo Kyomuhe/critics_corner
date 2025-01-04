@@ -1,21 +1,26 @@
 {
   "files": {
     "main.css": "/critics_corner/static/css/main.e6c13ad2.css",
-    "main.js": "/critics_corner/static/js/main.a0939c50.js",
+    "main.js": "/critics_corner/static/js/main.d2459927.js",
     "static/js/453.4140a91b.chunk.js": "/critics_corner/static/js/453.4140a91b.chunk.js",
     "static/media/chicago.PNG": "/critics_corner/static/media/chicago.1f22cc71ae69dc980db0.PNG",
     "static/media/unfort.PNG": "/critics_corner/static/media/unfort.582644db777a98a70edc.PNG",
+    "static/media/back.PNG": "/critics_corner/static/media/back.62a66797048aff79f42f.PNG",
     "static/media/shameless.PNG": "/critics_corner/static/media/shameless.65d2b7fe71f3693a11ef.PNG",
+    "static/media/back2.PNG": "/critics_corner/static/media/back2.88ef0651050b241e02c2.PNG",
     "static/media/black.PNG": "/critics_corner/static/media/black.34a859cb91c111b80da2.PNG",
+    "static/media/back6.PNG": "/critics_corner/static/media/back6.29c81a19c4eb30aed0c1.PNG",
+    "static/media/back3.PNG": "/critics_corner/static/media/back3.f89e4de3e7da120a0391.PNG",
     "static/media/fromm.PNG": "/critics_corner/static/media/fromm.6d59f3cabbc360b90dfa.PNG",
     "static/media/big.PNG": "/critics_corner/static/media/big.2b8714885e96d2317bbf.PNG",
+    "static/media/back1.PNG": "/critics_corner/static/media/back1.123a7e0c5fa425939aba.PNG",
     "index.html": "/critics_corner/index.html",
     "main.e6c13ad2.css.map": "/critics_corner/static/css/main.e6c13ad2.css.map",
-    "main.a0939c50.js.map": "/critics_corner/static/js/main.a0939c50.js.map",
+    "main.d2459927.js.map": "/critics_corner/static/js/main.d2459927.js.map",
     "453.4140a91b.chunk.js.map": "/critics_corner/static/js/453.4140a91b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a0939c50.js"
+    "static/js/main.d2459927.js"
   ]
 }
