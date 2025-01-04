@@ -37,14 +37,14 @@ function LandingPage() {
         }}
       >
         <h1 style={{ fontSize: "1.5rem", color: "#2a9d8f", margin: 0 }}>
-          Critics Corner 🎥
+          Critics Corner🎥
         </h1>
         <button
           onClick={() => navigate("/reviews")}
           style={{
             backgroundColor: "#2a9d8f",
             color: "#fff",
-            padding: "10px 20px",
+            padding: "5px 30px",
             fontSize: "1rem",
             border: "none",
             borderRadius: "20px",
@@ -56,7 +56,6 @@ function LandingPage() {
         </button>
       </div>
 
-{/* Background Section */}
 {/* Background Section */}
 <div
   style={{
@@ -88,6 +87,22 @@ function LandingPage() {
     <p style={{ fontSize: "1.2rem", margin: "10px 0" }}>
       Your ultimate destination for honest and engaging reviews.
     </p>
+    <button
+          onClick={() => navigate("/reviews")}
+          style={{
+            backgroundColor: "#2a9d8f",
+            color: "#fff",
+            padding: "5px 30px",
+            fontSize: "1rem",
+            border: "none",
+            borderRadius: "20px",
+            cursor: "pointer",
+            transition: "all 0.3s ease",
+          }}
+        >
+          Explore Reviews 🚀
+        </button>
+
   </div>
 </div>
 
