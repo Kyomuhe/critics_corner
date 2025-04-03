@@ -38,15 +38,31 @@ const reviews = {
   
   3: {
     title: "BIG BANG THEORY",
-    content:
-    "I have not yet reviewed it , but i will soon wait for the tea😊"
+    content: `
+The Big Bang Theory follows the life of Sheldon Cooper, a genius who, in my opinion, was incredibly self-centered and arrogant. Honestly, if I met someone like him in real life, I don’t think I could ever be friends with him.
+
+What really stood out to me was how patient his friends were with him. Like, seriously, that level of tolerance doesn’t happen in real life! They were always justifying his selfish behavior, making excuses for him, and constantly adapting to his ways. But in the end, there’s something oddly heartwarming about their friendship.
+
+Despite his flaws, Sheldon’s growth throughout the series is undeniable, and his friends’ bond is what makes the show so special. It’s funny, sometimes frustrating, but ultimately a great watch, especially if you enjoy nerdy humor and quirky characters.
+
+
+     `
   },
 
 
   4: {
     title: "Chicago Pd",
-    content:
-    "I have not yet reviewed it , but i will soon wait for the tea😊"
+    content: `
+One of the things I’ve always loved about Chicago P.D. is the way Sergeant Voight (Boyd) protects his team. He has this tough, no-nonsense approach, but deep down, his loyalty runs deep. That’s why he always says, “Tell me the truth so I can lie for you.” It’s his way of looking out for his unit, even if it means bending the rules.
+
+Voight is often seen as the villain, but I don’t see him that way. Yes, he breaks the law, but he does it for the right reasons. He operates in the gray area of justice, making tough choices that others wouldn’t dare to make.
+
+This show has had some truly heartbreaking moments. One that really got to me was Burgess losing her unborn baby. I was so excited for her and Ruzek, and then—just like that—tragedy struck. It felt so unfair, and it was one of those moments that made Chicago P.D. hit even harder.
+
+Overall, this show keeps you on the edge of your seat with intense action, deep character connections, and emotional twists that stay with you. If you love crime dramas that aren’t afraid to go dark, Chicago P.D. is definitely worth watching.
+
+
+     `
   },
   5: {
     title: "A Series of Unfortunate Events",
